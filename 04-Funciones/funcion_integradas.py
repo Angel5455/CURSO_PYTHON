@@ -1,0 +1,7 @@
+int(48)
+str(50)
+len('python')
+round(4.58)
+eval('5+4*2')
+bin(25)
+int(0b1010)

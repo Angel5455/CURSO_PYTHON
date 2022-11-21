@@ -1,0 +1,5 @@
+{
+    "python.analysis.extraPaths": [
+        "./02-Proyecto-Flask/web-personal"
+    ]
+}
